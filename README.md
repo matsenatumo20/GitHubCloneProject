@@ -1,2 +1,1 @@
-# GitHubCloneProject
-My first ALX cloned project
+This is the description of my repo
